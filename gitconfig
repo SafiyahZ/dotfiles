@@ -59,3 +59,6 @@
 
 [init]
   defaultBranch = master
+[user]
+	email = safiyahzaman@gmail.com
+	name = Safiyah Zaman
